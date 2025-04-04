@@ -1,0 +1,22 @@
+{
+  "name": "Espelho do WhatsApp",
+  "short_name": "WhatsEspelho",
+  "description": "Espelho de mensagens do WhatsApp para Emersol",
+  "start_url": "espelho.html",
+  "display": "standalone",
+  "background_color": "#0d1418",
+  "theme_color": "#128c7e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
